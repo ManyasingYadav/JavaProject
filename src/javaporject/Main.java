@@ -3,6 +3,6 @@ package javaporject;
 public class Main {
 	public static void main(String args[]) {
 		System.out.println("hello git");
-	}
+		System.out.println("My Second Commit");	}
 
 }
